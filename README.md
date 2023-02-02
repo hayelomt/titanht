@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @titanht
-- 👀 I’m interested in jabascript world
+- 👀 I’m interested in javascript world
 - 🌱 I’m currently learning golang
 - 📫 How to reach me hayelomtizazu@gmail.com
 
